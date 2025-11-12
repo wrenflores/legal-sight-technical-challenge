@@ -24,8 +24,8 @@ A brief description of your Speech Management API:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/wrenflores/legal-sight-technical-challenge.git
-cd speech-management-api
+    git clone https://github.com/wrenflores/legal-sight-technical-challenge.git
+    cd speech-management-api
 ```
 2. **Setup Backend**
 - Ensure Java 17 and Maven are installed.
